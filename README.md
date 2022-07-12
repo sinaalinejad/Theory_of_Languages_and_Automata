@@ -12,4 +12,4 @@ There are 5 folders each containing a project, projects are:
 The codes are in python so you need a python interpreter for running that.
 
 Thanks.
-Sina Alinejad
+Sina Alinejad :raised_hand:
