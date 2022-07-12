@@ -7,6 +7,8 @@ There are 5 folders each containing a project, folders are:
 - NFA-DFA-Conversion
 - Turing-Machine  
 - Word-Validation-FA  
+
+
 The codes are in python so you need a python interpreter for running that.
 
 Thanks.
